@@ -1,0 +1,8 @@
+ <button onclick=" myFunction()"> See the content</button>
+                    <script>
+                        function mombah() {
+                            var  d = document.getElementById("intro");
+                                d.style.borderBottomColor: #a1b5c2;
+                                d.style.font.bolder: 5px;
+                        }
+                    </script>

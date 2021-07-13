@@ -1,0 +1,221 @@
+.cv {
+    background: #147696;
+    height: 30px;
+    margin: auto;
+    width: 100%;
+    }
+
+.titre1 {
+    border-left: 3px;
+    font-weight: 900%;
+    font-style: bold;
+    font-family: monospace, sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 65px;
+    height: 40px;
+    background-color: #f2aa20;
+    width: 800;
+    }
+
+    body{
+        width: 90%;
+        height: 90%;
+        background: #919ba1;
+        outline: 10px dotted #147696;
+        outline-width: 0px;
+    }
+
+    #intro {
+        font-style: italic;
+        font-family: monospace;
+        margin: auto;
+        text-align: display;
+        font-style: bolder;
+        display: auto;
+      
+    }
+
+#navbar {
+    margin-top: 500%;
+    margin-right: 50px;
+    border: solid;
+    margin-bottom: 30px;
+    padding-left: 60px;
+    border-bottom: 28px;
+    margin: auto;
+    }
+
+footer {
+    text-align: center;
+    background-color: #a1b5c2;
+}
+
+.sary{
+    margin-bottom: 100%;
+    display: inline-block;
+    border:8px;
+    border-right-style: inset;
+    border-left: 10px;
+    height: 400px;
+    width: 200px;
+}
+#dip{
+    
+    font-family: cursive;
+    font-style: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div>li>label{
+    
+  
+    font-family: cirsive;
+    font-style: bolder;
+
+}
+
+h3{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
